@@ -26,7 +26,6 @@
     one.view.backgroundColor = [UIColor whiteColor];
     
     XYMNavigationController *nav = [[XYMNavigationController alloc]initWithRootViewController:one];
-//    KLTNavigationController *nav = [[KLTNavigationController alloc]initWithRootViewController:one];
     
     self.window.rootViewController = nav;
     
